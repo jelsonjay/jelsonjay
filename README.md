@@ -1,4 +1,4 @@
-### Hi I'm Jelson J 👋 fist_oncoming :punch:
+### Hi I'm Jelson J :punch:
 
 I'm very passionate about technologies, I spend much of my spare time learning and obsessing about the latest web technologies. I think it’s important to love doing what you do, so the passion will continue to motivate and improve your skills.
 
