@@ -13,7 +13,7 @@ I'm very passionate about technologies, I spend much of my spare time learning a
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on persola portfolio
+- 🔭 I’m currently working on personal portfolio
 - 🌱 I’m currently learning Gatsby, GraphQL & testing
 - 👯 I’m looking to collaborate on creating content!
 - 🤔 I’m looking for help with ...
