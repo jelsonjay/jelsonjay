@@ -13,10 +13,10 @@ I'm very passionate about technologies, I spend much of my spare time learning a
 
 ## I'm a Front-end Developer!
 
-- 🔭 I’m currently working on my personal portfolio
-- 🌱 I’m currently learning Gatsby, GraphQL & testing
-- 👯 I’m looking to collaborate on an open sourse project.
-- 💬 Ask me about Front-end
-- 😄 Pronouns: he/him
+- I’m currently working on my personal portfolio
+- I’m currently learning Gatsby, GraphQL & testing
+- I’m looking to collaborate on an open sourse project.
+- Ask me about Front-end
+
 
 
