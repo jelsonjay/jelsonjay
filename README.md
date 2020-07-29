@@ -6,9 +6,10 @@
   <a href="https://www.linkedin.com/in/jelsonj/">Linkein</a>
 </p>
 
------------------------------
+-----------------------------------------------------------
 
-I'm very passionate about technologies, I spend much of my spare time learning and obsessing about the latest web technologies. I think it’s important to love doing what you do, so the passion will continue to motivate and improve your skills.
+I'm very passionate about technologies, I spend much of my spare time learning and obsessing about the latest web technologies. 
+I think it’s important to love doing what you do, so the passion will continue to motivate and improve your skills.
 
 
 ## I'm a Front-end Developer!
