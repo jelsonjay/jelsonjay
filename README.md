@@ -15,7 +15,7 @@ I think it’s important to love doing what you do, so the passion will continue
 ## I'm a Front-end Developer!
 
 - I’m currently working on my personal portfolio
-- I’m currently learning Gatsby, Strapi, GraphQL & testing
+- I’m currently learning almost everything
 - I’m looking to collaborate on an open sourse project.
 - Ask me about Front-end
 
