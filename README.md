@@ -19,9 +19,7 @@ I think it’s important to love doing what you do, so the passion will continue
 - I’m looking to collaborate on an open sourse projects
 - Ask me about Front-end
 - 2020 Goals: Exercise more
-
-
-<br />
+-------------------------------------------------------------
 
 ### Languages
 
