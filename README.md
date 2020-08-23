@@ -20,7 +20,7 @@ I think it’s important to love doing what you do, so the passion will continue
 - Ask me about Front-end
 - 2020 Goals: Exercise more
 
--------------------------------------------------------------
+
 <br />
 
 ### Languages
