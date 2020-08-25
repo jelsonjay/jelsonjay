@@ -45,7 +45,7 @@ I think it’s important to love doing what you do, so the passion will continue
   <a><img align="left" alt="Sublime-Text" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" /><a/>
 <a><img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /><a/>
 <a><img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /><a/>
-<a><img align="left" alt="Brackets" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/bracketsb/brackets.png" /><a/>
+<a><img align="left" alt="Brackets" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/brackets/brackets.png" /><a/>
 
 
 <br />
