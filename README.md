@@ -21,8 +21,7 @@ I think it’s important to love doing what you do, so the passion will continue
 - 2020 Goals: Exercise more
 -------------------------------------------------------------
 
-### Languages
-
+## Languages
 <a><img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /><a/>
 <a><img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /><a/>
 <a><img align="left" alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /><a/>
@@ -38,8 +37,7 @@ I think it’s important to love doing what you do, so the passion will continue
 
 <br />
 <br />
-
-### Package Manager
+## Package Manager
 <a><img align="left" alt="Npm" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/npm/npm.png" /><a/>
 
 <br />
