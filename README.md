@@ -12,7 +12,7 @@ I'm very passionate about technologies, I spend much of my spare time learning a
 I think it’s important to love doing what you do, so the passion will continue to motivate and improve your skills.
 
 
-## I'm a Front-end Developer!
+## I'm a Front-end Developer
 
 - I’m currently working on my personal portfolio
 - I’m currently learning almost everything
