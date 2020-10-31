@@ -42,12 +42,13 @@ I'm a passionate about everything related to web development. I spend much of my
 
 <br />
 <br />
-<br />
+
 
 ## Headless CMS
 
 <a><img align="left" alt="Npm" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/contentful/contentful.png" /><a/>
-
+<br />
+  <br />
 ## Package Manager
 
 
