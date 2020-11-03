@@ -51,7 +51,7 @@ I'm a passionate about everything related to web development. I spend much of my
 ## Package Manager
 
 
-<a><img align="left" alt="Npm" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/npm/npm.png" /><a/>
+<a><img align="left" alt="Npm" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/npm/npm.png" /><a/>
 
 <br />
 <br />
