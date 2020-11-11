@@ -58,7 +58,7 @@ I'm a passionate about everything related to web development. I spend much of my
 
 ## Tools
 <a><img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /><a/>
-<a><img align="left" alt="Atom" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" /><a/>
+<a><img align="left" alt="Atom" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" /><a/>
   <a><img align="left" alt="Sublime-Text" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" /><a/>
 
 <br />
