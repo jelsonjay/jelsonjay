@@ -82,17 +82,13 @@ I'm a passionate about everything related to web development. I spend much of my
  ## &#x1f4c8; GitHub Stats
  
  
-<a href="https://github.com/akkayaburak/akkayaburak">
+<a href="https://github.com/jelsonjay/jelsonjay">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jelsonjay&hide=ruby,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/akkayaburak/akkayaburak">
+<a href="https://github.com/jelsonjay/jelsonjay">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jelsonjay&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Burak's GitHub Stats" />
 </a>
- <a herf="https://github-readme-stats.vercel.app/api?username=jelsonjay"
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jelsonjay)](https://github.com/anuraghazra/github-readme-stats)
- </a>
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jelsonjay&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
  
   
 
