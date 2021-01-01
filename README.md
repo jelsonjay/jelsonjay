@@ -14,7 +14,7 @@ I'm a passionate about everything related to web development. I spend much of my
 
 ## I'm a Front-end Developer
 
-- I’m currently working on my personal portfolio
+- I’m currently working on my personal porjects
 - I’m currently learning almost everything
 - I’m looking to collaborate on an open sourse projects
 - Ask me about Front-end
