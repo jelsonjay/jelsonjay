@@ -9,7 +9,7 @@
 
 -----------------------------------------------------------
 
-I'm a passionate about everything related to web development. I spend much of my spare time learning and obsessing about the latest web technologies and contributing in the open source environment. I think it’s important to love what you do so the passion will continue to motivate and improve my skills.
+I am passionate about everything related to web development. I spend much of my spare time learning and obsessing about the latest web technologies and contributing in the open source environment. I think it’s important to love what you do so the passion will continue to motivate and improve my skills.
 
 
 ## I'm a Front-end Developer
