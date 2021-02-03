@@ -15,7 +15,7 @@ I am passionate about everything related to web development. I spend much of my 
 ## I'm a Front-end Developer
 
 - I’m currently working on different types of projects
-- I’m currently learning almost everything
+- I’m currently learning TypeScript & Next.js
 - I’m looking to collaborate on an open sourse projects
 - Ask me about Front-end
 - 2021 Goals: Exercise more
