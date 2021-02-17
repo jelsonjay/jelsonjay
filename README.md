@@ -18,6 +18,7 @@ I am passionate about everything related to web development. I spend much of my 
 - I’m currently learning TypeScript & Next.js
 - I’m looking to collaborate on an open sourse projects
 - Ask me about Front-end
+- Hobbies: watching football & play chess
 - 2021 Goals: Exercise more
 - Be kind wherever possible.
 -------------------------------------------------------------
