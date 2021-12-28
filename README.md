@@ -19,7 +19,7 @@ I am passionate about everything related to web development. I spend much of my 
 - I’m looking to collaborate on an open sourse projects
 - Ask me about Front-end
 - Hobbies: watching football and play chess
-- 2021 Goals: Exercise more
+- 2022 Goals: Exercise more
 - Be kind wherever possible.
 -------------------------------------------------------------
 
