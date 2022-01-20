@@ -15,7 +15,7 @@ I am passionate about everything related to web development. I spend much of my 
 ## I'm a Front-end Developer
 
 - I’m currently working on different types of projects
-- I’m currently learning TypeScript, Next.js & Angular
+- I’m currently learning TypeScript, Next.js, Vuejs & Angularjs
 - I’m looking to collaborate on an open sourse projects
 - Ask me about Front-end
 - Hobbies: watching football and play chess
