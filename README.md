@@ -55,7 +55,7 @@ I am passionate about everything related to web development. I spend much of my 
 
 <a><img align="left" alt="Sanity" width="30px" src="https://avatars1.githubusercontent.com/u/17177659?s=200&v=4/topics/sanity/sanity.png" /><a/>
   
-<a><img align="left" alt="Strapi" width="60px" src="https://github.com/jelsonjay/svg-icons/blob/master/strapi1.png" /><a/>
+<a><img align="left" alt="Strapi" width="70px" src="https://github.com/jelsonjay/svg-icons/blob/master/strapi1.png" /><a/>
   
 <br /><br />
 ## Package Manager
