@@ -42,13 +42,12 @@ I am passionate about everything related to web development. I spend much of my 
 <a><img align="left" alt="Node.js" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/node.png" /><a/>
 <a><img align="left" alt="MongoDB" width="40px" src="https://github.com/jelsonjay/svg-icons/blob/master/mongodb.png" /><a/>
 <a><img align="left" alt="MYSQL" width="40px" src="https://github.com/jelsonjay/svg-icons/blob/master/mysql.png" /><a/>
- <img align="left" alt="Firebase" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 
 <br />
 
 ## Design
 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="30" />  
+<img style="margin: 10px"  alt="Figma" src="https://github.com/jelsonjay/svg-icons/blob/master/figma.png" height="30" />  
 
 ## Headless CMS
 
@@ -61,8 +60,9 @@ I am passionate about everything related to web development. I spend much of my 
 <br /><br />
 ## Package Manager
 
+<a><img align="left" alt="Npm" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/npm.png" /><a/>
+<a><img align="left" alt="Chocolatey" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/chocolatey.png" /><a/>
 
-<a><img align="left" alt="Npm" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/npm/npm.png" /><a/>
 
 <br />
 <br />
