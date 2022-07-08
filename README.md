@@ -34,11 +34,11 @@ I am passionate about everything related to web development. I spend much of my 
 <a><img align="left" alt="Typescript" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/typescript.png" /><a/>
 <a><img align="left" alt="React" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/react.png" /><a/>
 <a><img align="left" alt="Gatsby" width="30px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" /><a/>
-<a><img align="left" alt="GraphQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" /><a/>
+<a><img align="left" alt="Vite" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/vite.png" /><a/>
 
 <a><img align="left" alt="Express" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" /><a/>
-<a><img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /><a/>
-<a><img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /><a/>
+<a><img align="left" alt="Node.js" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/node.png" /><a/>
+<a><img align="left" alt="MongoDB" width="40px" src="https://github.com/jelsonjay/svg-icons/blob/master/mongodb.png" /><a/>
 <a><img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /><a/>
  <img align="left" alt="Firebase" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <a><img align="left" alt="Tailwind" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" /><a/>  
