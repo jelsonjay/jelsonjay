@@ -41,7 +41,7 @@ I am passionate about everything related to web development. I spend much of my 
 <a><img align="left" alt="Express" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" /><a/>
 <a><img align="left" alt="Node.js" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/node.png" /><a/>
 <a><img align="left" alt="MongoDB" width="40px" src="https://github.com/jelsonjay/svg-icons/blob/master/mongodb.png" /><a/>
-<a><img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /><a/>
+<a><img align="left" alt="MYSQL" width="40px" src="https://github.com/jelsonjay/svg-icons/blob/master/mysql.png" /><a/>
  <img align="left" alt="Firebase" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 
 <br />
@@ -52,11 +52,11 @@ I am passionate about everything related to web development. I spend much of my 
 
 ## Headless CMS
 
-<a><img align="left" alt="Npm" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/contentful/contentful.png" /><a/>
+<a><img align="left" alt="Npm" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/contentful.png" /><a/>
 
 <a><img align="left" alt="Sanity" width="30px" src="https://avatars1.githubusercontent.com/u/17177659?s=200&v=4/topics/sanity/sanity.png" /><a/>
   
-<a><img align="left" alt="Strapi" width="30px" src="https://avatars3.githubusercontent.com/u/19872173?s=200&v=4" /><a/>
+<a><img align="left" alt="Strapi" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/strapi.png" /><a/>
   
 <br /><br />
 ## Package Manager
@@ -68,16 +68,16 @@ I am passionate about everything related to web development. I spend much of my 
 <br />
 
 ## Tools
-<a><img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /><a/>
-<a><img align="left" alt="Atom" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" /><a/>
-  <a><img align="left" alt="Sublime-Text" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" /><a/>
+<a><img align="left" alt="Visual Studio Code" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/vscode.png" /><a/>
+<a><img align="left" alt="Atom" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/pycharm.png" /><a/>
+
 
 <br />
 <br />
 
 ## Version Control
-<a><img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /><a/>
-<a><img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /><a/>
+<a><img align="left" alt="Git" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/git.png" /><a/>
+<a><img align="left" alt="GitHub" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/github.png" /><a/>
  <br />
  <br />
   
