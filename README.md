@@ -33,7 +33,7 @@ I am passionate about everything related to web development. I spend much of my 
 <a><img align="left" alt="JavaScript" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/javascript.png" /><a/>
 <a><img align="left" alt="Typescript" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/typescript.png" /><a/>
 <a><img align="left" alt="React" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/react.png" /><a/>
-<a><img align="left" alt="Gatsby" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/gatsby.png" /><a/>
+<a><img align="left" alt="Gatsby" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/gatsbyjs.png" /><a/>
 <a><img align="left" alt="Vue" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/vue.png" /><a/>
 <a><img align="left" alt="Next" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/next.png" /><a/>
 <a><img align="left" alt="Vite" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/vite.png" /><a/>
