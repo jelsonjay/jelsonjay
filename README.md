@@ -55,7 +55,7 @@ I am passionate about everything related to web development. I spend much of my 
 
 <a><img align="left" alt="Sanity" width="30px" src="https://avatars1.githubusercontent.com/u/17177659?s=200&v=4/topics/sanity/sanity.png" /><a/>
   
-<a><img align="left" alt="Strapi" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/strapi1.png" /><a/>
+<a><img align="left" alt="Strapi" width="60px" src="https://github.com/jelsonjay/svg-icons/blob/master/strapi1.png" /><a/>
   
 <br /><br />
 ## Package Manager
@@ -76,7 +76,7 @@ I am passionate about everything related to web development. I spend much of my 
 <br />
 
 ## Version Control
-<a><img align="left" alt="Git" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/git.png" /><a/>
+<a><img align="left" alt="Git" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/git-1.png" /><a/>
 <a><img align="left" alt="GitHub" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/github.png" /><a/>
  <br />
  <br />
