@@ -62,6 +62,7 @@ I am passionate about everything related to web development. I spend much of my 
 
 <a><img align="left" alt="Npm" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/npm.png" /><a/>
 <a><img align="left" alt="Chocolatey" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/chocolatey.png" /><a/>
+<a><img align="left" alt="Yarn" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/yarn.png" /><a/>
 
 
 <br />
