@@ -35,13 +35,13 @@ I am passionate about everything related to web development. I spend much of my 
 <a><img align="left" alt="JavaScript" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/javascript.png" /><a/>
 <a><img align="left" alt="Typescript" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/typescript.png" /><a/>
 <a><img align="left" alt="React" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/react.png" /><a/>
-<a><img align="left" alt="Gatsby" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/gatsbyjs.png" /><a/>
 <a><img align="left" alt="Vue" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/vue.png" /><a/>
 <a><img align="left" alt="Next" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/next.png" /><a/>
 <a><img align="left" alt="Vite" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/vite.png" /><a/>
 
 <a><img align="left" alt="Express" width="50px" src="https://github.com/jelsonjay/svg-icons/blob/master/express.png" /><a/>
 <a><img align="left" alt="Node.js" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/node.png" /><a/>
+<a><img align="left" alt="Firebase" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/firebase.png" /><a/>
 <a><img align="left" alt="MongoDB" width="40px" src="https://github.com/jelsonjay/svg-icons/blob/master/mongo.png" /><a/>
 <a><img align="left" alt="MYSQL" width="40px" src="https://github.com/jelsonjay/svg-icons/blob/master/mysql.png" /><a/>
 
