@@ -22,7 +22,7 @@ I am passionate about everything related to web development. I spend much of my 
 - Ask me about Front-end
 - Hobbies: watching football and play chess
 - 2023 Goals: Exercise more
-- Be kind wherever possible.
+- Be kind wherever possible
 -------------------------------------------------------------
 
 ## Languages & Frameworks
