@@ -39,7 +39,6 @@ I am passionate about everything related to web and iOS development. I spend muc
 <a><img align="left" alt="Qgraphql" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/graphql.png" /><a/>
 <a><img align="left" alt="Express" width="50px" src="https://github.com/jelsonjay/svg-icons/blob/master/express.png" /><a/>
 <a><img align="left" alt="Node.js" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/node.png" /><a/>
-<a><img align="left" alt="Firebase" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/firebase.png" /><a/>
 <a><img align="left" alt="MongoDB" width="40px" src="https://github.com/jelsonjay/svg-icons/blob/master/mongo.png" /><a/>
 <a><img align="left" alt="MYSQL" width="40px" src="https://github.com/jelsonjay/svg-icons/blob/master/mysql.png" /><a/>
 
