@@ -10,7 +10,8 @@
 
 -----------------------------------------------------------
 
-I am passionate about everything related to web and iOS development. I spend much of my spare time learning and obsessing about the latest web & iOS technologies and contributing in the open source environment. I think it’s important to love what you do so the passion will continue to motivate and improve my skills.
+
+I’m Jelson J a Front-end Web Developer & Designer. I’m very passionate about everything related to web development, I spend much of my spare time learning and obsessing about the latest web technologies. I’m open to Job opportunities where I can contribute, learn and grow. I think it’s important to love doing what you do, so the passion will continue to motivate and improve my skills.
 
 
 ## I'm a Front-end Developer
