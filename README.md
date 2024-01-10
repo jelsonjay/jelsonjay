@@ -21,7 +21,7 @@ I’m Jelson J a Front-end Web Developer & Designer. I’m very passionate about
 - I’m looking to collaborate on an open sourse projects
 - Ask me about Front-end
 - Hobbies: watching football and play chess
-- 2023 Goals: Exercise more
+- 2024 Goals: Exercise more
 - Be kind wherever possible
 -------------------------------------------------------------
 
