@@ -17,7 +17,7 @@ I’m Jelson J a Front-end Web Developer & Designer. I’m very passionate about
 ## I'm a Front-end Developer
 
 - I’m currently working on different types of projects
-- I’m currently learning: always JavaScript, & REST API
+- I’m currently learning: TypeScript & REST API
 - I’m looking to collaborate on an open sourse projects
 - Ask me about Front-end
 - Hobbies: watching football and play chess
