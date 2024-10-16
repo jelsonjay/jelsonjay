@@ -51,8 +51,6 @@ I’m Jelson J a Front-end Web Developer & Designer. I’m very passionate about
 
 ## Headless CMS
 
-<a><img align="left" alt="Npm" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/contentful.png" /><a/>
-
 <a><img align="left" alt="Sanity" width="30px" src="https://avatars1.githubusercontent.com/u/17177659?s=200&v=4/topics/sanity/sanity.png" /><a/>
   
 <a><img align="left" alt="Strapi" width="70px" src="https://github.com/jelsonjay/svg-icons/blob/master/strapi1.png" /><a/>
@@ -61,7 +59,6 @@ I’m Jelson J a Front-end Web Developer & Designer. I’m very passionate about
 ## Package Manager
 
 <a><img align="left" alt="Npm" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/npm.png" /><a/>
-<a><img align="left" alt="Chocolatey" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/chocolatey.png" /><a/>
 <a><img align="left" alt="Yarn" width="30px" src="https://github.com/jelsonjay/svg-icons/blob/master/yarn.png" /><a/>
 
 
