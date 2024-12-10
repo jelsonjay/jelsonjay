@@ -14,14 +14,14 @@
 I’m Jelson J a Front-end Web Developer & Designer. I’m very passionate about everything related to web development, I spend much of my spare time learning and obsessing about the latest web technologies. I’m open to Job opportunities where I can contribute, learn and grow. I think it’s important to love doing what you do, so the passion will continue to motivate and improve my skills.
 
 
-## I'm a Front-end Developer
+## Front-end Developer
 
 - I’m currently working on different types of projects
 - I’m currently learning: TypeScript & REST API
 - I’m looking to collaborate on an open sourse projects
 - Ask me about Front-end
 - Hobbies: watching football and play chess
-- 2024 Goals: Exercise more
+- 2025 Goals: Exercise more
 - Be kind wherever possible
 -------------------------------------------------------------
 
