@@ -11,7 +11,7 @@
 -----------------------------------------------------------
 
 
-I’m Jelson J a Front-end Web Developer, I’m very passionate about everything related to web development, I spend much of my spare time learning and obsessing about the latest web technologies. 
+I’m Jelson J Front-end Web Developer, I’m very passionate about everything related to web development, I spend much of my spare time learning and obsessing about the latest web technologies. 
 
 
 ## Front-end Developer
