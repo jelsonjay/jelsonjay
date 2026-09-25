@@ -25,6 +25,7 @@ I’m Jelson J Front-end Web Developer, I’m very passionate about everything r
 - Hobbies: watching football and play chess
 - 2026 Goals: Exercise more
 - Be kind wherever possible
+- Building and Learning
 -------------------------------------------------------------
 
 ## Languages & Frameworks
